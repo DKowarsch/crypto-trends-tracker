@@ -1,0 +1,137 @@
+[
+  {
+    "timestamp": "2025-12-29T01:04:43.171684",
+    "name": "Canton",
+    "symbol": "CC",
+    "price": 0.14065420315151603,
+    "market_cap": "5152179683",
+    "market_cap_rank": 33,
+    "24h_change": 24.845665365964365
+  },
+  {
+    "timestamp": "2025-12-29T01:04:43.171694",
+    "name": "OVERTAKE",
+    "symbol": "TAKE",
+    "price": 0.42546896102873644,
+    "market_cap": "81587917",
+    "market_cap_rank": 478,
+    "24h_change": 31.32199101356902
+  },
+  {
+    "timestamp": "2025-12-29T01:04:43.171697",
+    "name": "Pudgy Penguins",
+    "symbol": "PENGU",
+    "price": 0.009450775387462714,
+    "market_cap": "594314232",
+    "market_cap_rank": 132,
+    "24h_change": 0.8554246855727681
+  },
+  {
+    "timestamp": "2025-12-29T01:04:43.171700",
+    "name": "Kinesis Silver",
+    "symbol": "KAG",
+    "price": 77.69361569097796,
+    "market_cap": "289181481",
+    "market_cap_rank": 215,
+    "24h_change": -3.0055140822230277
+  },
+  {
+    "timestamp": "2025-12-29T01:04:43.171704",
+    "name": "Zcash",
+    "symbol": "ZEC",
+    "price": 536.4000333065303,
+    "market_cap": "8830514576",
+    "market_cap_rank": 22,
+    "24h_change": 3.90362402160855
+  },
+  {
+    "timestamp": "2025-12-29T01:04:43.171707",
+    "name": "Flow",
+    "symbol": "FLOW",
+    "price": 0.09800150282449475,
+    "market_cap": "159290177",
+    "market_cap_rank": 312,
+    "24h_change": -13.232216901125124
+  },
+  {
+    "timestamp": "2025-12-29T01:04:43.171709",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "price": 88207.62590168764,
+    "market_cap": "1761309041248",
+    "market_cap_rank": 1,
+    "24h_change": 0.41592767346498155
+  },
+  {
+    "timestamp": "2025-12-29T01:04:43.171716",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "price": 6.22787179274249,
+    "market_cap": "3922848253",
+    "market_cap_rank": 41,
+    "24h_change": 4.5578625176848995
+  },
+  {
+    "timestamp": "2025-12-29T01:04:43.171719",
+    "name": "Aster",
+    "symbol": "ASTER",
+    "price": 0.7230034095500885,
+    "market_cap": "1717983403",
+    "market_cap_rank": 62,
+    "24h_change": 0.6218747365978324
+  },
+  {
+    "timestamp": "2025-12-29T01:04:43.171722",
+    "name": "pippin",
+    "symbol": "PIPPIN",
+    "price": 0.42324643359580966,
+    "market_cap": "423653931",
+    "market_cap_rank": 162,
+    "24h_change": -10.373610794541404
+  },
+  {
+    "timestamp": "2025-12-29T01:04:43.171724",
+    "name": "Monad",
+    "symbol": "MON",
+    "price": 0.022708277377693004,
+    "market_cap": "245837033",
+    "market_cap_rank": 242,
+    "24h_change": -0.8806348019320462
+  },
+  {
+    "timestamp": "2025-12-29T01:04:43.171726",
+    "name": "Solana",
+    "symbol": "SOL",
+    "price": 127.15630600951658,
+    "market_cap": "71548187652",
+    "market_cap_rank": 7,
+    "24h_change": 2.240756536143975
+  },
+  {
+    "timestamp": "2025-12-29T01:04:43.171728",
+    "name": "Cardano",
+    "symbol": "ADA",
+    "price": 0.37235600487445003,
+    "market_cap": "13661242936",
+    "market_cap_rank": 12,
+    "24h_change": 0.8792116624233576
+  },
+  {
+    "timestamp": "2025-12-29T01:04:43.171730",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "price": 1.861351853345626,
+    "market_cap": "3070203701",
+    "market_cap_rank": 47,
+    "24h_change": -1.3752607928996543
+  },
+  {
+    "timestamp": "2025-12-29T01:04:43.171732",
+    "name": "The White Whale",
+    "symbol": "WHITEWHALE",
+    "price": 0.05006095174683343,
+    "market_cap": "50588843",
+    "market_cap_rank": 645,
+    "24h_change": 74.03345623238614
+  }
+]
