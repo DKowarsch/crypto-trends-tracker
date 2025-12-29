@@ -1,21 +1,36 @@
 name: Crypto Data Fetcher
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Every 4 hours at minute 0
+    - cron: '0 */4 * * *'  # Every 4 hours
   workflow_dispatch:
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # ADD THIS LINE
+    
     steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-python@v5
+    - name: Checkout repository
+      uses: actions/checkout@v4
       with:
-        python-version: '3.11'  # Use 3.12 for pandas compatibility
-    - run: pip install requests pandas
-    - run: python crypto_fetch.py
-    - run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
+        token: ${{ secrets.GITHUB_TOKEN }}  # ADD THIS LINE
+        
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: pip install requests pandas
+      
+    - name: Run script
+      run: python crypto_fetch.py
+      
+    - name: Commit and push
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
         git add crypto_data.json crypto_data.csv
-        git commit -m "Update" || echo "No changes"
+        git commit -m "Update crypto data - $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
         git push
