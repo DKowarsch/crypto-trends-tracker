@@ -3,26 +3,35 @@
 <head>
     <title>Crypto Trends Dashboard</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 40px; }
-        table { width: 100%; border-collapse: collapse; }
-        th, td { padding: 10px; border: 1px solid #ddd; }
-        th { background: #f5f5f5; }
-        .positive { color: green; }
-        .negative { color: red; }
+        body { font-family: Arial, sans-serif; margin: 40px; max-width: 1200px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background: #f8f9fa; font-weight: bold; }
+        .positive { color: #28a745; }
+        .negative { color: #dc3545; }
+        .rank { font-weight: bold; color: #007bff; }
+        .header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
+                  color: white; padding: 30px; border-radius: 10px; margin-bottom: 30px; }
+        .trending-badge { background: #ff6b6b; color: white; padding: 3px 8px; 
+                         border-radius: 12px; font-size: 0.8em; }
     </style>
 </head>
 <body>
-    <h1>Crypto Trends Dashboard</h1>
-    <p>Auto-updated every 4 hours</p>
-    <div id="lastUpdate">Loading...</div>
+    <div class="header">
+        <h1>📈 Trending Crypto Dashboard</h1>
+        <p>Top trending cryptocurrencies by search volume & interest</p>
+        <div id="lastUpdate">Loading...</div>
+    </div>
+    
     <table id="coinsTable">
         <thead>
             <tr>
-                <th>Rank</th>
-                <th>Name</th>
-                <th>Price</th>
-                <th>24h Change</th>
-                <th>Market Cap</th>
+                <th width="10%">Trending Rank</th>
+                <th width="25%">Coin</th>
+                <th width="15%">Price (USD)</th>
+                <th width="15%">24h Change</th>
+                <th width="15%">Market Cap</th>
+                <th width="20%">Overall Rank</th>
             </tr>
         </thead>
         <tbody>
@@ -32,28 +41,41 @@
 
     <script>
         // Load data from your JSON file
+        const DATA_URL = 'https://raw.githubusercontent.com/DKowarsch/crypto-trends-tracker/main/crypto_data.json';
+        
         async function loadData() {
             try {
-                const response = await fetch('https://raw.githubusercontent.com/DKowarsch/crypto-trends-tracker/main/crypto_data.json');
+                const response = await fetch(DATA_URL + '?t=' + new Date().getTime());
                 const coins = await response.json();
                 displayData(coins);
             } catch (error) {
-                document.getElementById('coinsTable').innerHTML = 
-                    '<tr><td colspan="5">Loading data...</td></tr>';
+                document.querySelector('#coinsTable tbody').innerHTML = 
+                    '<tr><td colspan="6" style="text-align:center; padding:40px; color:#666;">Loading data...<br>If this persists, check if data is being fetched.</td></tr>';
+                console.log('Loading...');
             }
         }
         
         function displayData(coins) {
+            if (!coins || coins.length === 0) {
+                document.querySelector('#coinsTable tbody').innerHTML = 
+                    '<tr><td colspan="6" style="text-align:center; padding:40px; color:#666;">No data available yet.<br>The next update runs every 4 hours.</td></tr>';
+                return;
+            }
+            
             let html = '';
             coins.forEach(coin => {
                 const changeClass = coin['24h_change'] >= 0 ? 'positive' : 'negative';
+                const changeSign = coin['24h_change'] >= 0 ? '+' : '';
+                const marketCap = coin.market_cap ? `$${parseInt(coin.market_cap).toLocaleString()}` : 'N/A';
+                
                 html += `
                     <tr>
-                        <td>${coin.market_cap_rank}</td>
-                        <td>${coin.name} (${coin.symbol})</td>
-                        <td>$${coin.price.toFixed(4)}</td>
-                        <td class="${changeClass}">${coin['24h_change'].toFixed(2)}%</td>
-                        <td>$${parseInt(coin.market_cap).toLocaleString()}</td>
+                        <td><span class="rank">#${coin.trending_rank}</span> <span class="trending-badge">TRENDING</span></td>
+                        <td><strong>${coin.name}</strong><br><small>${coin.symbol.toUpperCase()}</small></td>
+                        <td><strong>$${parseFloat(coin.price).toFixed(4)}</strong></td>
+                        <td class="${changeClass}"><strong>${changeSign}${coin['24h_change'].toFixed(2)}%</strong></td>
+                        <td>${marketCap}</td>
+                        <td>#${coin.market_cap_rank || 'N/A'}</td>
                     </tr>
                 `;
             });
@@ -63,13 +85,17 @@
             // Update timestamp
             if (coins.length > 0) {
                 const lastUpdate = new Date(coins[0].timestamp);
-                document.getElementById('lastUpdate').textContent = 
-                    `Last updated: ${lastUpdate.toLocaleString()}`;
+                document.getElementById('lastUpdate').innerHTML = 
+                    `<strong>Last updated:</strong> ${lastUpdate.toLocaleString()}<br>
+                     <small>Next update in 4 hours | ${coins.length} coins trending</small>`;
             }
         }
         
         // Load on page open
         loadData();
+        
+        // Auto-refresh every 2 minutes
+        setInterval(loadData, 120000);
     </script>
 </body>
 </html>
