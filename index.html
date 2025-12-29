@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Crypto Trends Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 1000px; margin: 20px auto; padding: 20px; }
+        .header { text-align: center; margin-bottom: 30px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background-color: #f2f2f2; }
+        .positive { color: green; }
+        .negative { color: red; }
+        .update-time { color: #666; font-size: 0.9em; }
+        .refresh-btn { 
+            padding: 8px 16px; 
+            background: #007bff; 
+            color: white; 
+            border: none; 
+            border-radius: 4px; 
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📈 Crypto Trends Dashboard</h1>
+        <p>Auto-updated every hour via GitHub Actions</p>
+        <div class="update-time" id="lastUpdate">Loading...</div>
+        <button class="refresh-btn" onclick="loadData()">🔄 Refresh Now</button>
+    </div>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Rank</th>
+                <th>Coin</th>
+                <th>Symbol</th>
+                <th>Price (USD)</th>
+                <th>24h Change</th>
+                <th>Market Cap</th>
+            </tr>
+        </thead>
+        <tbody id="coinsTable">
+            <!-- Data loads here -->
+        </tbody>
+    </table>
+    
+    <script>
+        // GitHub JSON file URL
+        const DATA_URL = 'https://raw.githubusercontent.com/YOUR_USERNAME/crypto-trends-tracker/main/crypto_data.json';
+        
+        async function loadData() {
+            try {
+                const response = await fetch(DATA_URL + '?t=' + new Date().getTime());
+                const coins = await response.json();
+                displayData(coins);
+            } catch (error) {
+                document.getElementById('coinsTable').innerHTML = 
+                    '<tr><td colspan="6">Error loading data. Try again later.</td></tr>';
+                console.error('Error:', error);
+            }
+        }
+        
+        function displayData(coins) {
+            let html = '';
+            
+            coins.forEach(coin => {
+                const changeClass = coin['24h_change'] >= 0 ? 'positive' : 'negative';
+                const changeSign = coin['24h_change'] >= 0 ? '+' : '';
+                const price = parseFloat(coin.price).toFixed(4);
+                const marketCap = parseInt(coin.market_cap).toLocaleString();
+                
+                html += `
+                    <tr>
+                        <td>#${coin.market_cap_rank}</td>
+                        <td><strong>${coin.name}</strong></td>
+                        <td>${coin.symbol.toUpperCase()}</td>
+                        <td>$${price}</td>
+                        <td class="${changeClass}">${changeSign}${coin['24h_change'].toFixed(2)}%</td>
+                        <td>$${marketCap}</td>
+                    </tr>
+                `;
+            });
+            
+            document.getElementById('coinsTable').innerHTML = html;
+            
+            // Update timestamp
+            if (coins.length > 0) {
+                const lastUpdate = new Date(coins[0].timestamp);
+                document.getElementById('lastUpdate').textContent = 
+                    `Last updated: ${lastUpdate.toLocaleString()}`;
+            }
+        }
+        
+        // Load data on page open
+        loadData();
+        
+        // Auto-refresh every 2 minutes
+        setInterval(loadData, 120000);
+    </script>
+</body>
+</html>
