@@ -1,0 +1,39 @@
+name: Crypto Data Fetcher
+
+on:
+  schedule:
+    # Run every hour at minute 0
+    - cron: '0 * * * *'
+  # Allows manual triggering
+  workflow_dispatch:
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        persist-credentials: false
+        
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.13'
+        
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        
+    - name: Run crypto fetcher
+      run: python crypto_fetch.py
+      
+    - name: Commit and push if data changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add crypto_data.json crypto_data.csv
+        # Only commit if there are changes
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update crypto data - $(date +'%Y-%m-%d %H:%M')"
+        git push
