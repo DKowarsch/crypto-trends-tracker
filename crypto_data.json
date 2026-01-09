@@ -3,150 +3,150 @@
     "trending_rank": 1,
     "name": "Islamic Coin",
     "symbol": "ISLM",
-    "price": 0.05604082762323533,
-    "market_cap": "131995741",
-    "market_cap_rank": 371,
-    "24h_change": 476.5635645724394,
-    "timestamp": "2026-01-09T12:54:12.092828"
+    "price": 0.05450220451233143,
+    "market_cap": "130700590",
+    "market_cap_rank": 379,
+    "24h_change": 459.2686586382901,
+    "timestamp": "2026-01-09T16:34:14.143656"
   },
   {
     "trending_rank": 2,
     "name": "Pudgy Penguins",
     "symbol": "PENGU",
-    "price": 0.011881662484209349,
-    "market_cap": "747520282",
-    "market_cap_rank": 118,
-    "24h_change": 1.6109487109925351,
-    "timestamp": "2026-01-09T12:54:12.092839"
+    "price": 0.012900258973187317,
+    "market_cap": "812105661",
+    "market_cap_rank": 113,
+    "24h_change": 5.747581974263211,
+    "timestamp": "2026-01-09T16:34:14.143667"
   },
   {
     "trending_rank": 3,
     "name": "POL (ex-MATIC)",
     "symbol": "POL",
-    "price": 0.14394390075370267,
-    "market_cap": "1520574734",
-    "market_cap_rank": 73,
-    "24h_change": 12.30355687663682,
-    "timestamp": "2026-01-09T12:54:12.092844"
+    "price": 0.15589708169282337,
+    "market_cap": "1656655331",
+    "market_cap_rank": 68,
+    "24h_change": 16.8448147718723,
+    "timestamp": "2026-01-09T16:34:14.143672"
   },
   {
     "trending_rank": 4,
     "name": "Zcash",
     "symbol": "ZEC",
-    "price": 436.07439867163697,
-    "market_cap": "7192005269",
+    "price": 428.8309033218783,
+    "market_cap": "7097432833",
     "market_cap_rank": 26,
-    "24h_change": 10.557465311954441,
-    "timestamp": "2026-01-09T12:54:12.092847"
+    "24h_change": 2.4210858438496183,
+    "timestamp": "2026-01-09T16:34:14.143675"
   },
   {
     "trending_rank": 5,
-    "name": "DeepNode",
-    "symbol": "DN",
-    "price": 1.4370542109323379,
-    "market_cap": "32416192",
-    "market_cap_rank": 903,
-    "24h_change": 42.0623944723591,
-    "timestamp": "2026-01-09T12:54:12.092850"
+    "name": "Solana",
+    "symbol": "SOL",
+    "price": 139.72326377389948,
+    "market_cap": "78774770939",
+    "market_cap_rank": 6,
+    "24h_change": 2.2426203661928956,
+    "timestamp": "2026-01-09T16:34:14.143678"
   },
   {
     "trending_rank": 6,
     "name": "Bitcoin",
     "symbol": "BTC",
-    "price": 90301.06190840882,
-    "market_cap": "1804338814526",
+    "price": 91408.81689359687,
+    "market_cap": "1827332422118",
     "market_cap_rank": 1,
-    "24h_change": 0.6652465132503239,
-    "timestamp": "2026-01-09T12:54:12.092853"
+    "24h_change": 1.0693580427081,
+    "timestamp": "2026-01-09T16:34:14.143680"
   },
   {
     "trending_rank": 7,
-    "name": "Brevis",
-    "symbol": "BREV",
-    "price": 0.3925760673737817,
-    "market_cap": "98206137",
-    "market_cap_rank": 438,
-    "24h_change": 0.08361600954042775,
-    "timestamp": "2026-01-09T12:54:12.092855"
+    "name": "Monad",
+    "symbol": "MON",
+    "price": 0.02642895437145393,
+    "market_cap": "284811868",
+    "market_cap_rank": 229,
+    "24h_change": -4.909522047185069,
+    "timestamp": "2026-01-09T16:34:14.143682"
   },
   {
     "trending_rank": 8,
-    "name": "Pi Network",
-    "symbol": "PI",
-    "price": 0.20811974716444057,
-    "market_cap": "1744642761",
-    "market_cap_rank": 62,
-    "24h_change": 0.5985548984230318,
-    "timestamp": "2026-01-09T12:54:12.092861"
+    "name": "Lighter",
+    "symbol": "LIT",
+    "price": 3.1033036924176796,
+    "market_cap": "775825923",
+    "market_cap_rank": 118,
+    "24h_change": -1.6406447942967621,
+    "timestamp": "2026-01-09T16:34:14.143688"
   },
   {
     "trending_rank": 9,
-    "name": "Lighter",
-    "symbol": "LIT",
-    "price": 3.0156022647438103,
-    "market_cap": "753900566",
-    "market_cap_rank": 117,
-    "24h_change": -1.9035665481353634,
-    "timestamp": "2026-01-09T12:54:12.092864"
+    "name": "DeepNode",
+    "symbol": "DN",
+    "price": 1.450293843989258,
+    "market_cap": "32631611",
+    "market_cap_rank": 894,
+    "24h_change": 43.37122051364061,
+    "timestamp": "2026-01-09T16:34:14.143691"
   },
   {
     "trending_rank": 10,
     "name": "Sui",
     "symbol": "SUI",
-    "price": 1.7861429659335386,
-    "market_cap": "6773397197",
-    "market_cap_rank": 28,
-    "24h_change": 1.4394514057438281,
-    "timestamp": "2026-01-09T12:54:12.092866"
+    "price": 1.8414854062795483,
+    "market_cap": "6982188005",
+    "market_cap_rank": 27,
+    "24h_change": 1.4750557235118875,
+    "timestamp": "2026-01-09T16:34:14.143693"
   },
   {
     "trending_rank": 11,
-    "name": "World Liberty Financial",
-    "symbol": "WLFI",
-    "price": 0.16466520356508374,
-    "market_cap": "4497093473",
-    "market_cap_rank": 38,
-    "24h_change": -5.408567286631715,
-    "timestamp": "2026-01-09T12:54:12.092868"
+    "name": "Brevis",
+    "symbol": "BREV",
+    "price": 0.39693331963823597,
+    "market_cap": "99240078",
+    "market_cap_rank": 441,
+    "24h_change": 0.23041242913173676,
+    "timestamp": "2026-01-09T16:34:14.143696"
   },
   {
     "trending_rank": 12,
-    "name": "Solana",
-    "symbol": "SOL",
-    "price": 137.85867834248734,
-    "market_cap": "77796624484",
-    "market_cap_rank": 6,
-    "24h_change": 2.9883961754921256,
-    "timestamp": "2026-01-09T12:54:12.092871"
+    "name": "XRP",
+    "symbol": "XRP",
+    "price": 2.135627782186779,
+    "market_cap": "129651533239",
+    "market_cap_rank": 4,
+    "24h_change": 0.6651567918530279,
+    "timestamp": "2026-01-09T16:34:14.143698"
   },
   {
     "trending_rank": 13,
-    "name": "Monad",
-    "symbol": "MON",
-    "price": 0.026101529743762692,
-    "market_cap": "282717704",
-    "market_cap_rank": 226,
-    "24h_change": -1.2690644984024981,
-    "timestamp": "2026-01-09T12:54:12.092873"
+    "name": "Render",
+    "symbol": "RENDER",
+    "price": 2.365789763837919,
+    "market_cap": "1234795597",
+    "market_cap_rank": 89,
+    "24h_change": 5.043116355941639,
+    "timestamp": "2026-01-09T16:34:14.143700"
   },
   {
     "trending_rank": 14,
     "name": "Ethereum",
     "symbol": "ETH",
-    "price": 3082.362846269357,
-    "market_cap": "372303540967",
+    "price": 3128.9655660021185,
+    "market_cap": "377854474895",
     "market_cap_rank": 2,
-    "24h_change": -0.2572431166216864,
-    "timestamp": "2026-01-09T12:54:12.092875"
+    "24h_change": 1.0888773532057427,
+    "timestamp": "2026-01-09T16:34:14.143701"
   },
   {
     "trending_rank": 15,
-    "name": "XRP",
-    "symbol": "XRP",
-    "price": 2.092341939104841,
-    "market_cap": "127006257059",
-    "market_cap_rank": 4,
-    "24h_change": 0.739910882123854,
-    "timestamp": "2026-01-09T12:54:12.092877"
+    "name": "Hyperliquid",
+    "symbol": "HYPE",
+    "price": 25.740921693546643,
+    "market_cap": "6135196181",
+    "market_cap_rank": 31,
+    "24h_change": -1.2226181597386083,
+    "timestamp": "2026-01-09T16:34:14.143703"
   }
 ]
