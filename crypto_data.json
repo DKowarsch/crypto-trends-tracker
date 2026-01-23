@@ -1,152 +1,152 @@
 [
   {
     "trending_rank": 1,
-    "name": "Axie Infinity",
-    "symbol": "AXS",
-    "price": 2.718199202375232,
-    "market_cap": "458528254",
-    "market_cap_rank": 159,
-    "24h_change": 9.339242509773293,
-    "timestamp": "2026-01-23T08:36:03.976518"
+    "name": "Spacecoin",
+    "symbol": "SPACE",
+    "price": 0.01818978449536949,
+    "market_cap": "41235471",
+    "market_cap_rank": 728,
+    "24h_change": 39.49511443429244,
+    "timestamp": "2026-01-23T12:56:20.367155"
   },
   {
     "trending_rank": 2,
     "name": "Seeker",
     "symbol": "SKR",
-    "price": 0.037019360033114956,
-    "market_cap": "210124508",
-    "market_cap_rank": 269,
-    "24h_change": -11.086744245945951,
-    "timestamp": "2026-01-23T08:36:03.976528"
+    "price": 0.035243640359866116,
+    "market_cap": "201047699",
+    "market_cap_rank": 277,
+    "24h_change": -18.90202849756369,
+    "timestamp": "2026-01-23T12:56:20.367167"
   },
   {
     "trending_rank": 3,
     "name": "Rain",
     "symbol": "RAIN",
-    "price": 0.009995859121146344,
-    "market_cap": "3395081805",
+    "price": 0.010128767516245484,
+    "market_cap": "3438662416",
     "market_cap_rank": 45,
-    "24h_change": 8.905001118436305,
-    "timestamp": "2026-01-23T08:36:03.976531"
+    "24h_change": 1.6570856547358483,
+    "timestamp": "2026-01-23T12:56:20.367170"
   },
   {
     "trending_rank": 4,
-    "name": "Sentient",
-    "symbol": "SENT",
-    "price": 0.02600206535793635,
-    "market_cap": "189625429",
-    "market_cap_rank": 292,
-    "24h_change": 24.805171930264834,
-    "timestamp": "2026-01-23T08:36:03.976533"
+    "name": "Axie Infinity",
+    "symbol": "AXS",
+    "price": 2.7450210428360307,
+    "market_cap": "461897877",
+    "market_cap_rank": 157,
+    "24h_change": 9.436135985213308,
+    "timestamp": "2026-01-23T12:56:20.367172"
   },
   {
     "trending_rank": 5,
-    "name": "LayerZero",
-    "symbol": "ZRO",
-    "price": 2.2646838644954017,
-    "market_cap": "461991429",
-    "market_cap_rank": 157,
-    "24h_change": 14.350213020839464,
-    "timestamp": "2026-01-23T08:36:03.976536"
+    "name": "River",
+    "symbol": "RIVER",
+    "price": 39.539754974081546,
+    "market_cap": "773716871",
+    "market_cap_rank": 113,
+    "24h_change": -16.803115943754143,
+    "timestamp": "2026-01-23T12:56:20.367174"
   },
   {
     "trending_rank": 6,
-    "name": "River",
-    "symbol": "RIVER",
-    "price": 50.67369711568031,
-    "market_cap": "993360242",
-    "market_cap_rank": 98,
-    "24h_change": 9.12668208609961,
-    "timestamp": "2026-01-23T08:36:03.976538"
+    "name": "Sentient",
+    "symbol": "SENT",
+    "price": 0.02526107686527011,
+    "market_cap": "182487427",
+    "market_cap_rank": 295,
+    "24h_change": -1.6250170251266276,
+    "timestamp": "2026-01-23T12:56:20.367177"
   },
   {
     "trending_rank": 7,
     "name": "Pudgy Penguins",
     "symbol": "PENGU",
-    "price": 0.009947659571402768,
-    "market_cap": "625408200",
-    "market_cap_rank": 134,
-    "24h_change": -0.7805719299437192,
-    "timestamp": "2026-01-23T08:36:03.976540"
+    "price": 0.009897178471824216,
+    "market_cap": "622018599",
+    "market_cap_rank": 135,
+    "24h_change": -1.131783658713203,
+    "timestamp": "2026-01-23T12:56:20.367179"
   },
   {
     "trending_rank": 8,
-    "name": "Elsa",
-    "symbol": "ELSA",
-    "price": 0.19583548244153398,
-    "market_cap": "44930566",
-    "market_cap_rank": 706,
-    "24h_change": -18.18861147029768,
-    "timestamp": "2026-01-23T08:36:03.976546"
+    "name": "Acurast",
+    "symbol": "ACU",
+    "price": 0.1960998553086151,
+    "market_cap": "42604563",
+    "market_cap_rank": 732,
+    "24h_change": 55.355884649597044,
+    "timestamp": "2026-01-23T12:56:20.367185"
   },
   {
     "trending_rank": 9,
-    "name": "Monad",
-    "symbol": "MON",
-    "price": 0.01833556483275189,
-    "market_cap": "198428297",
-    "market_cap_rank": 287,
-    "24h_change": -1.5087121457146728,
-    "timestamp": "2026-01-23T08:36:03.976548"
+    "name": "Ondo",
+    "symbol": "ONDO",
+    "price": 0.3528163508449276,
+    "market_cap": "1718465240",
+    "market_cap_rank": 63,
+    "24h_change": 3.065049458395002,
+    "timestamp": "2026-01-23T12:56:20.367188"
   },
   {
     "trending_rank": 10,
-    "name": "Acurast",
-    "symbol": "ACU",
-    "price": 0.18446380303221355,
-    "market_cap": "39972303",
-    "market_cap_rank": 783,
-    "24h_change": 35.91794019218238,
-    "timestamp": "2026-01-23T08:36:03.976553"
+    "name": "Hyperliquid",
+    "symbol": "HYPE",
+    "price": 21.2155058930466,
+    "market_cap": "5054448581",
+    "market_cap_rank": 33,
+    "24h_change": -2.6438165155709807,
+    "timestamp": "2026-01-23T12:56:20.367191"
   },
   {
     "trending_rank": 11,
     "name": "FIGHT",
     "symbol": "FIGHT",
-    "price": 0.02581158537975703,
-    "market_cap": "52853000",
-    "market_cap_rank": 644,
-    "24h_change": 25.015929337522323,
-    "timestamp": "2026-01-23T08:36:03.976555"
+    "price": 0.02371388195453046,
+    "market_cap": "47589763",
+    "market_cap_rank": 682,
+    "24h_change": -13.094433975145739,
+    "timestamp": "2026-01-23T12:56:20.367193"
   },
   {
     "trending_rank": 12,
-    "name": "Lighter",
-    "symbol": "LIT",
-    "price": 1.8109233975278718,
-    "market_cap": "452554654",
-    "market_cap_rank": 161,
-    "24h_change": 2.6739838272313734,
-    "timestamp": "2026-01-23T08:36:03.976557"
+    "name": "Aave",
+    "symbol": "AAVE",
+    "price": 157.80669260581885,
+    "market_cap": "2396631046",
+    "market_cap_rank": 52,
+    "24h_change": -0.49279320087140566,
+    "timestamp": "2026-01-23T12:56:20.367195"
   },
   {
     "trending_rank": 13,
-    "name": "PAX Gold",
-    "symbol": "PAXG",
-    "price": 4933.308116860311,
-    "market_cap": "1976472446",
-    "market_cap_rank": 58,
-    "24h_change": 1.9365154162236449,
-    "timestamp": "2026-01-23T08:36:03.976559"
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "price": 2929.9777517789394,
+    "market_cap": "353483273388",
+    "market_cap_rank": 2,
+    "24h_change": -1.8837631535448849,
+    "timestamp": "2026-01-23T12:56:20.367197"
   },
   {
     "trending_rank": 14,
-    "name": "Monero",
-    "symbol": "XMR",
-    "price": 519.9746598978649,
-    "market_cap": "9603201557",
-    "market_cap_rank": 19,
-    "24h_change": 3.376332115493007,
-    "timestamp": "2026-01-23T08:36:03.976563"
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "price": 2.2245770003023315,
+    "market_cap": "450447374",
+    "market_cap_rank": 160,
+    "24h_change": 14.930880542572986,
+    "timestamp": "2026-01-23T12:56:20.367199"
   },
   {
     "trending_rank": 15,
-    "name": "Ethereum",
-    "symbol": "ETH",
-    "price": 2938.6393807856284,
-    "market_cap": "354782405348",
-    "market_cap_rank": 2,
-    "24h_change": -1.7834164871628526,
-    "timestamp": "2026-01-23T08:36:03.976565"
+    "name": "Monero",
+    "symbol": "XMR",
+    "price": 513.8831924996483,
+    "market_cap": "9482467935",
+    "market_cap_rank": 19,
+    "24h_change": 0.3891607064648527,
+    "timestamp": "2026-01-23T12:56:20.367203"
   }
 ]
