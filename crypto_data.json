@@ -1,152 +1,152 @@
 [
   {
     "trending_rank": 1,
-    "name": "ZKsync",
-    "symbol": "ZK",
-    "price": 0.03222614659682209,
-    "market_cap": "249026975",
-    "market_cap_rank": 221,
-    "24h_change": 37.361185344445516,
-    "timestamp": "2026-02-01T12:58:56.289316"
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "price": 77273.84027538818,
+    "market_cap": "1544136568022",
+    "market_cap_rank": 1,
+    "24h_change": -4.9682665554923755,
+    "timestamp": "2026-02-01T16:35:40.363128"
   },
   {
     "trending_rank": 2,
-    "name": "Bitcoin",
-    "symbol": "BTC",
-    "price": 78374.36760420728,
-    "market_cap": "1566453585587",
-    "market_cap_rank": 1,
-    "24h_change": -5.344047050573206,
-    "timestamp": "2026-02-01T12:58:56.289329"
+    "name": "ZKsync",
+    "symbol": "ZK",
+    "price": 0.030781808229771807,
+    "market_cap": "249026975",
+    "market_cap_rank": 221,
+    "24h_change": 38.46055582150621,
+    "timestamp": "2026-02-01T16:35:40.363137"
   },
   {
     "trending_rank": 3,
     "name": "Solana",
     "symbol": "SOL",
-    "price": 104.65375299953685,
-    "market_cap": "59271570555",
+    "price": 101.78097965418168,
+    "market_cap": "57636083449",
     "market_cap_rank": 7,
-    "24h_change": -9.313436785603582,
-    "timestamp": "2026-02-01T12:58:56.289332"
+    "24h_change": -5.9013725059687845,
+    "timestamp": "2026-02-01T16:35:40.363140"
   },
   {
     "trending_rank": 4,
-    "name": "Zora",
-    "symbol": "ZORA",
-    "price": 0.02982145228275183,
-    "market_cap": "133055144",
-    "market_cap_rank": 333,
-    "24h_change": 25.56365636743702,
-    "timestamp": "2026-02-01T12:58:56.289335"
+    "name": "Moltbook",
+    "symbol": "MOLT",
+    "price": 0.00039709877773256387,
+    "market_cap": "41468208",
+    "market_cap_rank": 714,
+    "24h_change": -28.168510389551088,
+    "timestamp": "2026-02-01T16:35:40.363143"
   },
   {
     "trending_rank": 5,
-    "name": "River",
-    "symbol": "RIVER",
-    "price": 18.241222253167766,
-    "market_cap": "368763119",
-    "market_cap_rank": 170,
-    "24h_change": -40.558666615459394,
-    "timestamp": "2026-02-01T12:58:56.289337"
+    "name": "Hyperliquid",
+    "symbol": "HYPE",
+    "price": 29.00401533863697,
+    "market_cap": "6922974613",
+    "market_cap_rank": 23,
+    "24h_change": 2.0115231062361016,
+    "timestamp": "2026-02-01T16:35:40.363145"
   },
   {
     "trending_rank": 6,
-    "name": "Hyperliquid",
-    "symbol": "HYPE",
-    "price": 30.5361441071454,
-    "market_cap": "7328013770",
-    "market_cap_rank": 23,
-    "24h_change": 0.8679422092769257,
-    "timestamp": "2026-02-01T12:58:56.289339"
+    "name": "River",
+    "symbol": "RIVER",
+    "price": 17.233570407297123,
+    "market_cap": "342377123",
+    "market_cap_rank": 169,
+    "24h_change": -41.84031850295178,
+    "timestamp": "2026-02-01T16:35:40.363147"
   },
   {
     "trending_rank": 7,
     "name": "Pudgy Penguins",
     "symbol": "PENGU",
-    "price": 0.007785040805570134,
-    "market_cap": "489344840",
+    "price": 0.007553285222773001,
+    "market_cap": "474601870",
     "market_cap_rank": 143,
-    "24h_change": -6.6200546073268765,
-    "timestamp": "2026-02-01T12:58:56.289341"
+    "24h_change": -4.733809816842624,
+    "timestamp": "2026-02-01T16:35:40.363150"
   },
   {
     "trending_rank": 8,
-    "name": "XRP",
-    "symbol": "XRP",
-    "price": 1.6405264341197259,
-    "market_cap": "99835646225",
-    "market_cap_rank": 5,
-    "24h_change": -2.9777753573284214,
-    "timestamp": "2026-02-01T12:58:56.289347"
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "price": 2297.878960642761,
+    "market_cap": "277339777891",
+    "market_cap_rank": 2,
+    "24h_change": -9.257022191567513,
+    "timestamp": "2026-02-01T16:35:40.363155"
   },
   {
     "trending_rank": 9,
-    "name": "Tether Gold",
-    "symbol": "XAUT",
-    "price": 4815.594487719577,
-    "market_cap": "3432059259",
-    "market_cap_rank": 42,
-    "24h_change": -1.6670774806782387,
-    "timestamp": "2026-02-01T12:58:56.289350"
+    "name": "Canton",
+    "symbol": "CC",
+    "price": 0.17523087951385674,
+    "market_cap": "6576402041",
+    "market_cap_rank": 25,
+    "24h_change": -8.130295819566355,
+    "timestamp": "2026-02-01T16:35:40.363158"
   },
   {
     "trending_rank": 10,
-    "name": "Moltbook",
-    "symbol": "MOLT",
-    "price": 0.0004787926582547987,
-    "market_cap": "47924491",
-    "market_cap_rank": 642,
-    "24h_change": -41.31044165284719,
-    "timestamp": "2026-02-01T12:58:56.289354"
+    "name": "BNB",
+    "symbol": "BNB",
+    "price": 750.6941991499858,
+    "market_cap": "102364679914",
+    "market_cap_rank": 4,
+    "24h_change": -6.778979906208832,
+    "timestamp": "2026-02-01T16:35:40.363163"
   },
   {
     "trending_rank": 11,
     "name": "Sui",
     "symbol": "SUI",
-    "price": 1.132961836774181,
-    "market_cap": "4357566691",
-    "market_cap_rank": 34,
-    "24h_change": -7.2712254992216465,
-    "timestamp": "2026-02-01T12:58:56.289356"
+    "price": 1.1018676046235005,
+    "market_cap": "4239662467",
+    "market_cap_rank": 37,
+    "24h_change": -5.318734021187033,
+    "timestamp": "2026-02-01T16:35:40.363165"
   },
   {
     "trending_rank": 12,
-    "name": "World Liberty Financial",
-    "symbol": "WLFI",
-    "price": 0.12150582485636499,
-    "market_cap": "3310341612",
-    "market_cap_rank": 44,
-    "24h_change": -16.96660405602329,
-    "timestamp": "2026-02-01T12:58:56.289358"
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "price": 4.190005785694885e-06,
+    "market_cap": "1763836878",
+    "market_cap_rank": 57,
+    "24h_change": -0.9380852599059533,
+    "timestamp": "2026-02-01T16:35:40.363167"
   },
   {
     "trending_rank": 13,
     "name": "PAX Gold",
     "symbol": "PAXG",
-    "price": 4843.741327815984,
-    "market_cap": "2102649324",
-    "market_cap_rank": 52,
-    "24h_change": -1.7182995362566431,
-    "timestamp": "2026-02-01T12:58:56.289360"
+    "price": 4806.362403893225,
+    "market_cap": "2087707572",
+    "market_cap_rank": 53,
+    "24h_change": -2.0338112189241766,
+    "timestamp": "2026-02-01T16:35:40.363168"
   },
   {
     "trending_rank": 14,
-    "name": "Avalanche",
-    "symbol": "AVAX",
-    "price": 10.075436970196227,
-    "market_cap": "4350428302",
-    "market_cap_rank": 35,
-    "24h_change": -4.702631140324163,
-    "timestamp": "2026-02-01T12:58:56.289364"
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "price": 189.36842543257163,
+    "market_cap": "1817966862",
+    "market_cap_rank": 56,
+    "24h_change": -4.960608621644953,
+    "timestamp": "2026-02-01T16:35:40.363170"
   },
   {
     "trending_rank": 15,
-    "name": "Ethereum",
-    "symbol": "ETH",
-    "price": 2393.021533201701,
-    "market_cap": "288847977828",
-    "market_cap_rank": 2,
-    "24h_change": -9.094788708101142,
-    "timestamp": "2026-02-01T12:58:56.289366"
+    "name": "Kinesis Silver",
+    "symbol": "KAG",
+    "price": 87.64837822867497,
+    "market_cap": "329322532",
+    "market_cap_rank": 181,
+    "24h_change": 3.1326862803672917,
+    "timestamp": "2026-02-01T16:35:40.363172"
   }
 ]
