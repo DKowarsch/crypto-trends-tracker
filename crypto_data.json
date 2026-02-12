@@ -1,152 +1,152 @@
 [
   {
     "trending_rank": 1,
-    "name": "Aztec",
-    "symbol": "AZTEC",
-    "price": 0.021047728909442308,
-    "market_cap": "60821411",
-    "market_cap_rank": 390,
-    "24h_change": -23.89418249735538,
-    "timestamp": "2026-02-12T08:54:26.253831"
+    "name": "Espresso",
+    "symbol": "ESP",
+    "price": 0.07739151374410207,
+    "market_cap": "37061491",
+    "market_cap_rank": 537,
+    "24h_change": -0.021090232372227926,
+    "timestamp": "2026-02-12T13:17:55.335828"
   },
   {
     "trending_rank": 2,
     "name": "Pudgy Penguins",
     "symbol": "PENGU",
-    "price": 0.006272390763520895,
-    "market_cap": "394331059",
-    "market_cap_rank": 111,
-    "24h_change": 6.2289737212984075,
-    "timestamp": "2026-02-12T08:54:26.253839"
+    "price": 0.006392321766572008,
+    "market_cap": "399346119",
+    "market_cap_rank": 110,
+    "24h_change": 7.677841616915401,
+    "timestamp": "2026-02-12T13:17:55.335840"
   },
   {
     "trending_rank": 3,
-    "name": "Uniswap",
-    "symbol": "UNI",
-    "price": 3.357457452747663,
-    "market_cap": "2126835044",
-    "market_cap_rank": 39,
-    "24h_change": 3.2866215193881603,
-    "timestamp": "2026-02-12T08:54:26.253842"
+    "name": "Berachain",
+    "symbol": "BERA",
+    "price": 0.7878814174502176,
+    "market_cap": "169136620",
+    "market_cap_rank": 197,
+    "24h_change": 46.12501438222802,
+    "timestamp": "2026-02-12T13:17:55.335843"
   },
   {
     "trending_rank": 4,
-    "name": "Berachain",
-    "symbol": "BERA",
-    "price": 0.7834533066244989,
-    "market_cap": "166930656",
-    "market_cap_rank": 199,
-    "24h_change": 51.722098336757384,
-    "timestamp": "2026-02-12T08:54:26.253844"
+    "name": "Aztec",
+    "symbol": "AZTEC",
+    "price": 0.020697606917749467,
+    "market_cap": "61621799",
+    "market_cap_rank": 390,
+    "24h_change": -25.1601775373943,
+    "timestamp": "2026-02-12T13:17:55.335846"
   },
   {
     "trending_rank": 5,
     "name": "LayerZero",
     "symbol": "ZRO",
-    "price": 2.091975883824971,
-    "market_cap": "423787896",
-    "market_cap_rank": 107,
-    "24h_change": -9.28945611679847,
-    "timestamp": "2026-02-12T08:54:26.253847"
+    "price": 2.191038445829082,
+    "market_cap": "452369008",
+    "market_cap_rank": 104,
+    "24h_change": -12.58863434357723,
+    "timestamp": "2026-02-12T13:17:55.335848"
   },
   {
     "trending_rank": 6,
-    "name": "Bitcoin",
-    "symbol": "BTC",
-    "price": 66941.07437768369,
-    "market_cap": "1339024536173",
-    "market_cap_rank": 1,
-    "24h_change": -0.07576506296930795,
-    "timestamp": "2026-02-12T08:54:26.253849"
+    "name": "Aster",
+    "symbol": "ASTER",
+    "price": 0.7143924904903961,
+    "market_cap": "1750281339",
+    "market_cap_rank": 43,
+    "24h_change": 7.535550196818008,
+    "timestamp": "2026-02-12T13:17:55.335851"
   },
   {
     "trending_rank": 7,
-    "name": "Ethereum",
-    "symbol": "ETH",
-    "price": 1959.158372817172,
-    "market_cap": "236649400494",
-    "market_cap_rank": 2,
-    "24h_change": 0.5214239261014122,
-    "timestamp": "2026-02-12T08:54:26.253851"
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "price": 3.3919351071257062,
+    "market_cap": "2159008563",
+    "market_cap_rank": 38,
+    "24h_change": 4.331831623529537,
+    "timestamp": "2026-02-12T13:17:55.335853"
   },
   {
     "trending_rank": 8,
-    "name": "Solana",
-    "symbol": "SOL",
-    "price": 80.51419072867472,
-    "market_cap": "45723791109",
-    "market_cap_rank": 7,
-    "24h_change": -0.6700449519107015,
-    "timestamp": "2026-02-12T08:54:26.253857"
+    "name": "pippin",
+    "symbol": "PIPPIN",
+    "price": 0.5414241434848881,
+    "market_cap": "544829963",
+    "market_cap_rank": 94,
+    "24h_change": 19.963045272680223,
+    "timestamp": "2026-02-12T13:17:55.335859"
   },
   {
     "trending_rank": 9,
-    "name": "Hyperliquid",
-    "symbol": "HYPE",
-    "price": 30.21866571200698,
-    "market_cap": "7201076566",
-    "market_cap_rank": 16,
-    "24h_change": 4.726926232562375,
-    "timestamp": "2026-02-12T08:54:26.253860"
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "price": 67779.06540474707,
+    "market_cap": "1352791142265",
+    "market_cap_rank": 1,
+    "24h_change": 1.3517057785695008,
+    "timestamp": "2026-02-12T13:17:55.335862"
   },
   {
     "trending_rank": 10,
-    "name": "Mind Network",
-    "symbol": "FHE",
-    "price": 0.06060607749399363,
-    "market_cap": "14998011",
-    "market_cap_rank": 913,
-    "24h_change": -58.42944306534468,
-    "timestamp": "2026-02-12T08:54:26.253864"
+    "name": "Hyperliquid",
+    "symbol": "HYPE",
+    "price": 30.80584668227905,
+    "market_cap": "7347705823",
+    "market_cap_rank": 16,
+    "24h_change": 6.442542271897595,
+    "timestamp": "2026-02-12T13:17:55.335866"
   },
   {
     "trending_rank": 11,
-    "name": "Aster",
-    "symbol": "ASTER",
-    "price": 0.7076413918193788,
-    "market_cap": "1733328596",
-    "market_cap_rank": 43,
-    "24h_change": 9.011091291718826,
-    "timestamp": "2026-02-12T08:54:26.253866"
+    "name": "Solana",
+    "symbol": "SOL",
+    "price": 81.05734834730085,
+    "market_cap": "45996431711",
+    "market_cap_rank": 7,
+    "24h_change": 0.028239690348958492,
+    "timestamp": "2026-02-12T13:17:55.335870"
   },
   {
     "trending_rank": 12,
-    "name": "Bittensor",
-    "symbol": "TAO",
-    "price": 151.3353337951925,
-    "market_cap": "1452448614",
-    "market_cap_rank": 53,
-    "24h_change": 2.8007029241889128,
-    "timestamp": "2026-02-12T08:54:26.253868"
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "price": 1983.853168976635,
+    "market_cap": "238564351570",
+    "market_cap_rank": 2,
+    "24h_change": 2.0225670274206893,
+    "timestamp": "2026-02-12T13:17:55.335872"
   },
   {
     "trending_rank": 13,
-    "name": "Magic Eden",
-    "symbol": "ME",
-    "price": 0.21288233006590704,
-    "market_cap": "94368528",
-    "market_cap_rank": 289,
-    "24h_change": 61.40335609778225,
-    "timestamp": "2026-02-12T08:54:26.253870"
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "price": 156.22659058431182,
+    "market_cap": "1496454916",
+    "market_cap_rank": 53,
+    "24h_change": 6.172643735834483,
+    "timestamp": "2026-02-12T13:17:55.335874"
   },
   {
     "trending_rank": 14,
     "name": "Sui",
     "symbol": "SUI",
-    "price": 0.927314202253401,
-    "market_cap": "3567463114",
+    "price": 0.9292643175009042,
+    "market_cap": "3577407813",
     "market_cap_rank": 30,
-    "24h_change": 3.4438912529180117,
-    "timestamp": "2026-02-12T08:54:26.253884"
+    "24h_change": 3.7571631079192884,
+    "timestamp": "2026-02-12T13:17:55.335876"
   },
   {
     "trending_rank": 15,
     "name": "Zama",
     "symbol": "ZAMA",
-    "price": 0.01842020183883711,
-    "market_cap": "40572937",
-    "market_cap_rank": 504,
-    "24h_change": -4.894689635159712,
-    "timestamp": "2026-02-12T08:54:26.253886"
+    "price": 0.017262621201900284,
+    "market_cap": "37785636",
+    "market_cap_rank": 527,
+    "24h_change": -5.797864250418137,
+    "timestamp": "2026-02-12T13:17:55.335878"
   }
 ]
