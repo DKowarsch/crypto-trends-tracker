@@ -1,152 +1,152 @@
 [
   {
     "trending_rank": 1,
-    "name": "Asteroid Shiba",
-    "symbol": "ASTEROID",
-    "price": 5.432838668644421e-05,
-    "market_cap": "22710991",
-    "market_cap_rank": 778,
-    "24h_change": 45218.36630617015,
-    "timestamp": "2026-04-18T02:46:19.332949"
+    "name": "RaveDAO",
+    "symbol": "RAVE",
+    "price": 26.866038936455684,
+    "market_cap": "6630413989",
+    "market_cap_rank": 19,
+    "24h_change": 50.96842452929564,
+    "timestamp": "2026-04-18T05:43:05.216989"
   },
   {
     "trending_rank": 2,
-    "name": "RaveDAO",
-    "symbol": "RAVE",
-    "price": 26.42689239865162,
-    "market_cap": "6559005652",
-    "market_cap_rank": 19,
-    "24h_change": 53.14942257828731,
-    "timestamp": "2026-04-18T02:46:19.332958"
+    "name": "Asteroid Shiba",
+    "symbol": "ASTEROID",
+    "price": 3.6740102680671654e-05,
+    "market_cap": "15615206",
+    "market_cap_rank": 975,
+    "24h_change": 73.93079384357851,
+    "timestamp": "2026-04-18T05:43:05.216999"
   },
   {
     "trending_rank": 3,
     "name": "OpenVPP",
     "symbol": "OVPP",
-    "price": 0.01918464950522661,
-    "market_cap": "15432875",
-    "market_cap_rank": 983,
-    "24h_change": -2.1995833543061054,
-    "timestamp": "2026-04-18T02:46:19.332963"
+    "price": 0.019301334365726272,
+    "market_cap": "15535160",
+    "market_cap_rank": 986,
+    "24h_change": 0.4215814968800222,
+    "timestamp": "2026-04-18T05:43:05.217004"
   },
   {
     "trending_rank": 4,
     "name": "Pudgy Penguins",
     "symbol": "PENGU",
-    "price": 0.0077728896021411874,
-    "market_cap": "488560641",
-    "market_cap_rank": 107,
-    "24h_change": 1.6614747694547867,
-    "timestamp": "2026-04-18T02:46:19.332965"
+    "price": 0.007740828140646864,
+    "market_cap": "486674468",
+    "market_cap_rank": 109,
+    "24h_change": 3.562999295602296,
+    "timestamp": "2026-04-18T05:43:05.217007"
   },
   {
     "trending_rank": 5,
     "name": "Bitcoin",
     "symbol": "BTC",
-    "price": 77376.4007035733,
-    "market_cap": "1548970990239",
+    "price": 77172.20082187137,
+    "market_cap": "1544841345554",
     "market_cap_rank": 1,
-    "24h_change": 3.5627301605431434,
-    "timestamp": "2026-04-18T02:46:19.332968"
+    "24h_change": 3.3511226788542854,
+    "timestamp": "2026-04-18T05:43:05.217009"
   },
   {
     "trending_rank": 6,
-    "name": "Siren",
-    "symbol": "SIREN",
-    "price": 0.7193863502018801,
-    "market_cap": "522976319",
-    "market_cap_rank": 101,
-    "24h_change": -59.79758370804342,
-    "timestamp": "2026-04-18T02:46:19.332970"
+    "name": "Pi Network",
+    "symbol": "PI",
+    "price": 0.18736597483358416,
+    "market_cap": "1907409041",
+    "market_cap_rank": 46,
+    "24h_change": 7.117871628030375,
+    "timestamp": "2026-04-18T05:43:05.217012"
   },
   {
     "trending_rank": 7,
-    "name": "Hyperliquid",
-    "symbol": "HYPE",
-    "price": 45.08370990342744,
-    "market_cap": "10746813866",
-    "market_cap_rank": 13,
-    "24h_change": 3.6669912338010002,
-    "timestamp": "2026-04-18T02:46:19.332973"
+    "name": "Siren",
+    "symbol": "SIREN",
+    "price": 0.7202903105945697,
+    "market_cap": "523866580",
+    "market_cap_rank": 104,
+    "24h_change": -62.79982590305393,
+    "timestamp": "2026-04-18T05:43:05.217014"
   },
   {
     "trending_rank": 8,
-    "name": "Venice Token",
-    "symbol": "VVV",
-    "price": 8.896777003332192,
-    "market_cap": "406298624",
-    "market_cap_rank": 119,
-    "24h_change": 3.8631008987775965,
-    "timestamp": "2026-04-18T02:46:19.332980"
+    "name": "ORDI",
+    "symbol": "ORDI",
+    "price": 5.9259495934748925,
+    "market_cap": "123969440",
+    "market_cap_rank": 246,
+    "24h_change": -26.90114490163309,
+    "timestamp": "2026-04-18T05:43:05.217020"
   },
   {
     "trending_rank": 9,
-    "name": "Bittensor",
-    "symbol": "TAO",
-    "price": 253.88482368553764,
-    "market_cap": "2436704062",
-    "market_cap_rank": 40,
-    "24h_change": 0.6898627506497332,
-    "timestamp": "2026-04-18T02:46:19.332983"
+    "name": "Hyperliquid",
+    "symbol": "HYPE",
+    "price": 45.00357670494875,
+    "market_cap": "10729673196",
+    "market_cap_rank": 13,
+    "24h_change": 3.7677857584167724,
+    "timestamp": "2026-04-18T05:43:05.217022"
   },
   {
     "trending_rank": 10,
-    "name": "Genius",
-    "symbol": "GENIUS",
-    "price": 0.703826192288327,
-    "market_cap": "236185467",
-    "market_cap_rank": 167,
-    "24h_change": 12.469482799710011,
-    "timestamp": "2026-04-18T02:46:19.332985"
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "price": 1.4419679885279941,
+    "market_cap": "240616703",
+    "market_cap_rank": 163,
+    "24h_change": 16.356680897661384,
+    "timestamp": "2026-04-18T05:43:05.217025"
   },
   {
     "trending_rank": 11,
-    "name": "Based",
-    "symbol": "BASED",
-    "price": 0.13163647421942914,
-    "market_cap": "30816867",
-    "market_cap_rank": 675,
-    "24h_change": -27.546602103721963,
-    "timestamp": "2026-04-18T02:46:19.332987"
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "price": 2409.507950368346,
+    "market_cap": "290813032968",
+    "market_cap_rank": 2,
+    "24h_change": 3.763892485783586,
+    "timestamp": "2026-04-18T05:43:05.217027"
   },
   {
     "trending_rank": 12,
-    "name": "ORDI",
-    "symbol": "ORDI",
-    "price": 6.1054370815405505,
-    "market_cap": "128287662",
-    "market_cap_rank": 243,
-    "24h_change": -31.84065128920436,
-    "timestamp": "2026-04-18T02:46:19.332989"
+    "name": "Solana",
+    "symbol": "SOL",
+    "price": 88.3611947674434,
+    "market_cap": "50857745584",
+    "market_cap_rank": 7,
+    "24h_change": 0.8706340068769475,
+    "timestamp": "2026-04-18T05:43:05.217029"
   },
   {
     "trending_rank": 13,
     "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
     "symbol": "\u5e01\u5b89\u4eba\u751f",
-    "price": 0.4635299272320699,
-    "market_cap": "470739542",
-    "market_cap_rank": 110,
-    "24h_change": 38.442029998149955,
-    "timestamp": "2026-04-18T02:46:19.332991"
+    "price": 0.5305003254032634,
+    "market_cap": "531539643",
+    "market_cap_rank": 101,
+    "24h_change": 49.9584365940655,
+    "timestamp": "2026-04-18T05:43:05.217031"
   },
   {
     "trending_rank": 14,
-    "name": "Ethereum",
-    "symbol": "ETH",
-    "price": 2422.006450689163,
-    "market_cap": "292376811001",
-    "market_cap_rank": 2,
-    "24h_change": 3.863930687658379,
-    "timestamp": "2026-04-18T02:46:19.332993"
+    "name": "Venice Token",
+    "symbol": "VVV",
+    "price": 8.955107901462302,
+    "market_cap": "408650020",
+    "market_cap_rank": 118,
+    "24h_change": 1.6295258183383077,
+    "timestamp": "2026-04-18T05:43:05.217033"
   },
   {
     "trending_rank": 15,
-    "name": "River",
-    "symbol": "RIVER",
-    "price": 7.6770491879593346,
-    "market_cap": "149930183",
-    "market_cap_rank": 220,
-    "24h_change": 1.659922948764948,
-    "timestamp": "2026-04-18T02:46:19.332994"
+    "name": "Fabric Protocol",
+    "symbol": "ROBO",
+    "price": 0.02305270801385295,
+    "market_cap": "51406040",
+    "market_cap_rank": 466,
+    "24h_change": 12.330209951850193,
+    "timestamp": "2026-04-18T05:43:05.217034"
   }
 ]
