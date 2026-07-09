@@ -1,152 +1,152 @@
 [
   {
     "trending_rank": 1,
-    "name": "LAB",
-    "symbol": "LAB",
-    "price": 1.175109976325195,
-    "market_cap": "367272216",
-    "market_cap_rank": 119,
-    "24h_change": -64.43123809407517,
-    "timestamp": "2026-07-09T07:44:20.154426"
+    "name": "Cash Cat",
+    "symbol": "CASHCAT",
+    "price": 0.1004983704383493,
+    "market_cap": "97450406",
+    "market_cap_rank": 270,
+    "24h_change": -0.8452349656547247,
+    "timestamp": "2026-07-09T10:57:14.414495"
   },
   {
     "trending_rank": 2,
-    "name": "Cash Cat",
-    "symbol": "CASHCAT",
-    "price": 0.10397842431042668,
-    "market_cap": "103120899",
-    "market_cap_rank": 259,
-    "24h_change": -23.936150954155295,
-    "timestamp": "2026-07-09T07:44:20.154437"
+    "name": "LAB",
+    "symbol": "LAB",
+    "price": 0.8816154045307145,
+    "market_cap": "275579823",
+    "market_cap_rank": 134,
+    "24h_change": -59.94454992298542,
+    "timestamp": "2026-07-09T10:57:14.414507"
   },
   {
     "trending_rank": 3,
     "name": "The Black Bull",
     "symbol": "ANSEM",
-    "price": 0.3025168937414006,
-    "market_cap": "125743583",
-    "market_cap_rank": 228,
-    "24h_change": 1.0354011786184478,
-    "timestamp": "2026-07-09T07:44:20.154440"
+    "price": 0.31579752263502836,
+    "market_cap": "131205502",
+    "market_cap_rank": 222,
+    "24h_change": 14.432089299488288,
+    "timestamp": "2026-07-09T10:57:14.414510"
   },
   {
     "trending_rank": 4,
     "name": "Arbitrum",
     "symbol": "ARB",
-    "price": 0.08389340108402343,
-    "market_cap": "533675664",
-    "market_cap_rank": 100,
-    "24h_change": 7.278722876733118,
-    "timestamp": "2026-07-09T07:44:20.154443"
+    "price": 0.0859159202285382,
+    "market_cap": "547031001",
+    "market_cap_rank": 97,
+    "24h_change": 12.495830597881488,
+    "timestamp": "2026-07-09T10:57:14.414513"
   },
   {
     "trending_rank": 5,
-    "name": "Pudgy Penguins",
-    "symbol": "PENGU",
-    "price": 0.006198536782159146,
-    "market_cap": "389828986",
-    "market_cap_rank": 114,
-    "24h_change": -0.46354815150684386,
-    "timestamp": "2026-07-09T07:44:20.154445"
+    "name": "Lighter",
+    "symbol": "LIT",
+    "price": 2.48193613289486,
+    "market_cap": "620484033",
+    "market_cap_rank": 91,
+    "24h_change": 7.701961238404413,
+    "timestamp": "2026-07-09T10:57:14.414516"
   },
   {
     "trending_rank": 6,
     "name": "Solana",
     "symbol": "SOL",
-    "price": 78.20446812057685,
-    "market_cap": "45502393605",
+    "price": 77.92607733671879,
+    "market_cap": "45340407992",
     "market_cap_rank": 7,
-    "24h_change": 0.1227411736545896,
-    "timestamp": "2026-07-09T07:44:20.154448"
+    "24h_change": 0.8517098800530514,
+    "timestamp": "2026-07-09T10:57:14.414518"
   },
   {
     "trending_rank": 7,
-    "name": "SkyAI",
-    "symbol": "SKYAI",
-    "price": 0.037038622829437914,
-    "market_cap": "37104707",
-    "market_cap_rank": 545,
-    "24h_change": 28.04553398932511,
-    "timestamp": "2026-07-09T07:44:20.154450"
+    "name": "Venice Token",
+    "symbol": "VVV",
+    "price": 11.286257927545993,
+    "market_cap": "532967907",
+    "market_cap_rank": 100,
+    "24h_change": 8.495388967165823,
+    "timestamp": "2026-07-09T10:57:14.414521"
   },
   {
     "trending_rank": 8,
-    "name": "Solstice",
-    "symbol": "SLX",
-    "price": 0.1814357918322053,
-    "market_cap": "44060811",
-    "market_cap_rank": 483,
-    "24h_change": -2.203435292001852,
-    "timestamp": "2026-07-09T07:44:20.154456"
+    "name": "Hyperliquid",
+    "symbol": "HYPE",
+    "price": 67.43854845684943,
+    "market_cap": "15001528340",
+    "market_cap_rank": 10,
+    "24h_change": -1.051553705488532,
+    "timestamp": "2026-07-09T10:57:14.414526"
   },
   {
     "trending_rank": 9,
     "name": "Bitcoin",
     "symbol": "BTC",
-    "price": 62807.95503004133,
-    "market_cap": "1259547150119",
+    "price": 62803.01629101356,
+    "market_cap": "1259513965069",
     "market_cap_rank": 1,
-    "24h_change": 0.03075070852460061,
-    "timestamp": "2026-07-09T07:44:20.154459"
+    "24h_change": 1.2018735821503854,
+    "timestamp": "2026-07-09T10:57:14.414529"
   },
   {
     "trending_rank": 10,
-    "name": "Hyperliquid",
-    "symbol": "HYPE",
-    "price": 67.77945227041931,
-    "market_cap": "15077121823",
-    "market_cap_rank": 10,
-    "24h_change": -0.4054579916724115,
-    "timestamp": "2026-07-09T07:44:20.154461"
+    "name": "Solstice",
+    "symbol": "SLX",
+    "price": 0.17660226657609196,
+    "market_cap": "42887013",
+    "market_cap_rank": 489,
+    "24h_change": -8.22595284787316,
+    "timestamp": "2026-07-09T10:57:14.414534"
   },
   {
     "trending_rank": 11,
-    "name": "Injective",
-    "symbol": "INJ",
-    "price": 4.784645261504089,
-    "market_cap": "478464526",
-    "market_cap_rank": 108,
-    "24h_change": 2.030680533841842,
-    "timestamp": "2026-07-09T07:44:20.154463"
+    "name": "Pudgy Penguins",
+    "symbol": "PENGU",
+    "price": 0.006170222042415625,
+    "market_cap": "387873257",
+    "market_cap_rank": 114,
+    "24h_change": 0.42271337778991697,
+    "timestamp": "2026-07-09T10:57:14.414536"
   },
   {
     "trending_rank": 12,
-    "name": "REAL",
-    "symbol": "ASSET",
-    "price": 0.27290390103914836,
-    "market_cap": "41491607",
-    "market_cap_rank": 504,
-    "24h_change": -5.8397481834808955,
-    "timestamp": "2026-07-09T07:44:20.154465"
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "price": 205.99529352070482,
+    "market_cap": "1977072939",
+    "market_cap_rank": 41,
+    "24h_change": 0.7988113010384532,
+    "timestamp": "2026-07-09T10:57:14.414538"
   },
   {
     "trending_rank": 13,
-    "name": "Grove",
-    "symbol": "GROVE",
-    "price": 0.026178644439377233,
-    "market_cap": "13704341",
-    "market_cap_rank": 991,
-    "24h_change": -6.6727718989926466,
-    "timestamp": "2026-07-09T07:44:20.154467"
+    "name": "XRP",
+    "symbol": "XRP",
+    "price": 1.0929181126804013,
+    "market_cap": "68271374781",
+    "market_cap_rank": 6,
+    "24h_change": 0.9612330789428792,
+    "timestamp": "2026-07-09T10:57:14.414540"
   },
   {
     "trending_rank": 14,
-    "name": "Lighter",
-    "symbol": "LIT",
-    "price": 2.4759152500939026,
-    "market_cap": "619080240",
-    "market_cap_rank": 91,
-    "24h_change": 4.247194042666899,
-    "timestamp": "2026-07-09T07:44:20.154469"
+    "name": "Pi Network",
+    "symbol": "PI",
+    "price": 0.09785863957188094,
+    "market_cap": "1065125742",
+    "market_cap_rank": 64,
+    "24h_change": -4.618163989882181,
+    "timestamp": "2026-07-09T10:57:14.414542"
   },
   {
     "trending_rank": 15,
-    "name": "Pi Network",
-    "symbol": "PI",
-    "price": 0.10143717953080511,
-    "market_cap": "1104935477",
-    "market_cap_rank": 62,
-    "24h_change": -1.590186904332741,
-    "timestamp": "2026-07-09T07:44:20.154471"
+    "name": "Arrow",
+    "symbol": "ARROW",
+    "price": 2.730596422845875,
+    "market_cap": "24685264",
+    "market_cap_rank": 703,
+    "24h_change": 195.64778895455285,
+    "timestamp": "2026-07-09T10:57:14.414544"
   }
 ]
