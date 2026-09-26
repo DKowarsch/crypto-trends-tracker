@@ -1,152 +1,152 @@
 [
   {
     "trending_rank": 1,
-    "name": "Official Trump",
-    "symbol": "TRUMP",
-    "price": 2.133769599962077,
-    "market_cap": "601441234",
-    "market_cap_rank": 103,
-    "24h_change": 2.4872025727763103,
-    "timestamp": "2026-09-25T23:10:26.851163"
+    "name": "NEAR Protocol",
+    "symbol": "NEAR",
+    "price": 4.896816540195584,
+    "market_cap": "6393303891",
+    "market_cap_rank": 22,
+    "24h_change": 9.587886911834255,
+    "timestamp": "2026-09-26T04:14:13.848735"
   },
   {
     "trending_rank": 2,
-    "name": "Edel",
-    "symbol": "EDEL",
-    "price": 0.029433735252272965,
-    "market_cap": "19966963",
-    "market_cap_rank": 910,
-    "24h_change": 0.8153619987174741,
-    "timestamp": "2026-09-25T23:10:26.851174"
+    "name": "Ethena",
+    "symbol": "ENA",
+    "price": 0.2750581268898384,
+    "market_cap": "2774710143",
+    "market_cap_rank": 38,
+    "24h_change": 23.381419947562126,
+    "timestamp": "2026-09-26T04:14:13.848746"
   },
   {
     "trending_rank": 3,
-    "name": "Backpack",
-    "symbol": "BP",
-    "price": 1.346453865982469,
-    "market_cap": "336613466",
-    "market_cap_rank": 135,
-    "24h_change": 32.52728912870488,
-    "timestamp": "2026-09-25T23:10:26.851177"
+    "name": "Pudgy Penguins",
+    "symbol": "PENGU",
+    "price": 0.010165629758727316,
+    "market_cap": "638687149",
+    "market_cap_rank": 98,
+    "24h_change": 6.000793849218512,
+    "timestamp": "2026-09-26T04:14:13.848748"
   },
   {
     "trending_rank": 4,
-    "name": "NEAR Protocol",
-    "symbol": "NEAR",
-    "price": 4.9581265777007335,
-    "market_cap": "6481732488",
-    "market_cap_rank": 22,
-    "24h_change": 7.9753352699899525,
-    "timestamp": "2026-09-25T23:10:26.851180"
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "price": 83982.33627141011,
+    "market_cap": "1687113301409",
+    "market_cap_rank": 1,
+    "24h_change": -0.24181184178752438,
+    "timestamp": "2026-09-26T04:14:13.848750"
   },
   {
     "trending_rank": 5,
-    "name": "Pudgy Penguins",
-    "symbol": "PENGU",
-    "price": 0.010266010534720205,
-    "market_cap": "645325488",
-    "market_cap_rank": 98,
-    "24h_change": 5.466882253305265,
-    "timestamp": "2026-09-25T23:10:26.851183"
+    "name": "PHALA",
+    "symbol": "PHA",
+    "price": 0.08201499315264645,
+    "market_cap": "70182711",
+    "market_cap_rank": 382,
+    "24h_change": 63.69652793303716,
+    "timestamp": "2026-09-26T04:14:13.848752"
   },
   {
     "trending_rank": 6,
     "name": "Ondo",
     "symbol": "ONDO",
-    "price": 0.5511389154841575,
-    "market_cap": "2683677612",
+    "price": 0.5443919541853475,
+    "market_cap": "2651059718",
     "market_cap_rank": 41,
-    "24h_change": 6.3070396621752,
-    "timestamp": "2026-09-25T23:10:26.851185"
+    "24h_change": 2.5371219728312076,
+    "timestamp": "2026-09-26T04:14:13.848753"
   },
   {
     "trending_rank": 7,
-    "name": "Ethena",
-    "symbol": "ENA",
-    "price": 0.2671401217147824,
-    "market_cap": "2696863010",
-    "market_cap_rank": 40,
-    "24h_change": 18.944622719670434,
-    "timestamp": "2026-09-25T23:10:26.851187"
+    "name": "Backpack",
+    "symbol": "BP",
+    "price": 1.2632958824025005,
+    "market_cap": "316689560",
+    "market_cap_rank": 146,
+    "24h_change": 4.402808483683507,
+    "timestamp": "2026-09-26T04:14:13.848755"
   },
   {
     "trending_rank": 8,
     "name": "Aerodrome Finance",
     "symbol": "AERO",
-    "price": 0.8391760867767921,
-    "market_cap": "836270828",
-    "market_cap_rank": 87,
-    "24h_change": 22.538886431867354,
-    "timestamp": "2026-09-25T23:10:26.851193"
+    "price": 0.8827572658317969,
+    "market_cap": "878809428",
+    "market_cap_rank": 85,
+    "24h_change": 26.500800440713956,
+    "timestamp": "2026-09-26T04:14:13.848760"
   },
   {
     "trending_rank": 9,
-    "name": "PHALA",
-    "symbol": "PHA",
-    "price": 0.08726504892492626,
-    "market_cap": "74785507",
-    "market_cap_rank": 366,
-    "24h_change": 72.28104208248438,
-    "timestamp": "2026-09-25T23:10:26.851196"
+    "name": "Zcash",
+    "symbol": "ZEC",
+    "price": 1536.4788652056304,
+    "market_cap": "26045663469",
+    "market_cap_rank": 9,
+    "24h_change": -1.2685471984954877,
+    "timestamp": "2026-09-26T04:14:13.848763"
   },
   {
     "trending_rank": 10,
     "name": "STONK",
     "symbol": "STONK",
-    "price": 0.30383987307982363,
-    "market_cap": "248573815",
-    "market_cap_rank": 166,
-    "24h_change": -12.83962559068933,
-    "timestamp": "2026-09-25T23:10:26.851198"
+    "price": 0.28117362615470515,
+    "market_cap": "230065714",
+    "market_cap_rank": 175,
+    "24h_change": -15.868346377684775,
+    "timestamp": "2026-09-26T04:14:13.848765"
   },
   {
     "trending_rank": 11,
-    "name": "Bittensor",
-    "symbol": "TAO",
-    "price": 315.9308784313833,
-    "market_cap": "3582544298",
-    "market_cap_rank": 33,
-    "24h_change": 6.880072825837134,
-    "timestamp": "2026-09-25T23:10:26.851200"
+    "name": "Aave",
+    "symbol": "AAVE",
+    "price": 155.34305309141263,
+    "market_cap": "2395695769",
+    "market_cap_rank": 46,
+    "24h_change": 6.655550464931062,
+    "timestamp": "2026-09-26T04:14:13.848766"
   },
   {
     "trending_rank": 12,
     "name": "Sui",
     "symbol": "SUI",
-    "price": 1.1855949673303985,
-    "market_cap": "4856833824",
+    "price": 1.1728073379844859,
+    "market_cap": "4802333529",
     "market_cap_rank": 27,
-    "24h_change": 17.574745131844015,
-    "timestamp": "2026-09-25T23:10:26.851202"
+    "24h_change": 15.685382776688142,
+    "timestamp": "2026-09-26T04:14:13.848767"
   },
   {
     "trending_rank": 13,
-    "name": "Zcash",
-    "symbol": "ZEC",
-    "price": 1550.7885465539866,
-    "market_cap": "26289239086",
-    "market_cap_rank": 9,
-    "24h_change": 0.29491409909745203,
-    "timestamp": "2026-09-25T23:10:26.851204"
+    "name": "Pons",
+    "symbol": "PONS",
+    "price": 0.6412015766027376,
+    "market_cap": "438501594",
+    "market_cap_rank": 122,
+    "24h_change": 3.358196630152409,
+    "timestamp": "2026-09-26T04:14:13.848769"
   },
   {
     "trending_rank": 14,
-    "name": "Bitcoin",
-    "symbol": "BTC",
-    "price": 84070.86224158578,
-    "market_cap": "1688923679909",
-    "market_cap_rank": 1,
-    "24h_change": -0.22829595343402245,
-    "timestamp": "2026-09-25T23:10:26.851206"
+    "name": "Pump.fun",
+    "symbol": "PUMP",
+    "price": 0.004383543534576522,
+    "market_cap": "2044248908",
+    "market_cap_rank": 51,
+    "24h_change": 11.983728131414411,
+    "timestamp": "2026-09-26T04:14:13.848770"
   },
   {
     "trending_rank": 15,
-    "name": "Jupiter",
-    "symbol": "JUP",
-    "price": 0.3439718223792253,
-    "market_cap": "1141769474",
-    "market_cap_rank": 75,
-    "24h_change": 14.053351730759417,
-    "timestamp": "2026-09-25T23:10:26.851210"
+    "name": "Canton",
+    "symbol": "CC",
+    "price": 0.1313641368791035,
+    "market_cap": "5215326966",
+    "market_cap_rank": 25,
+    "24h_change": 12.841448708680064,
+    "timestamp": "2026-09-26T04:14:13.848773"
   }
 ]
